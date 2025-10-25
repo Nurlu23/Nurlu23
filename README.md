@@ -1,4 +1,4 @@
-# Hi, I'm Naz 👋
+# Hi, I'm Nazrin.You can call me Naz 👋
 I’m learning Python and building small projects.
 
 ## 🔭 Featured Projects
